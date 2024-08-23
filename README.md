@@ -36,3 +36,5 @@ If you want to see the codes, you can select them at the top!!
    - เป็นทีมช่วยเหลือเรื่องต่างๆ
    - เป็นแอดมินและช่วยดูแลความปลอดภัยกับเซิร์ฟเวอร์ดิสคอร์ด
    - อื่นๆ
+4) [chatgpt.com](https://chatgpt.com/) (gpt)
+   - ช่วยในการพัฒนาบอทและเว็บไซต์ (มากกว่า50%)
