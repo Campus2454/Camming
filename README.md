@@ -19,7 +19,7 @@ Hello, this is the main page.
 If you want to see the codes, you can select them at the top!!
 
 ### info
-- บอท Camming
+- **บอท Camming**
 
   เป็นบอทที่พัฒนาโดยคนไทย🇹🇭 เพียงคนเดียว
 
