@@ -7,11 +7,15 @@
 
 ### main
 👋 ยินดีต้องรับ!
+
 สวัสดี ที่นี่คือหน้าหลัก
+
 หากต้องการดูโค้ดต่างๆสามารถเลือกได้ที่ด้านบนเลย!!
 
 👋 Welcome!
+
 Hello, this is the main page.
+
 If you want to see the codes, you can select them at the top!!
 
 ### info
