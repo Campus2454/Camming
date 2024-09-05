@@ -1,13 +1,17 @@
-# Camming
+### Camming
 
-### shortcut
+---
+
+**shortcut**
+
 - [Camming Bot](https://github.com/Campus2454/Camming/tree/CammingBot)
 - Camming FrontEnd
 - Camming BackEnd
 
 ##
 
-### main
+**main**
+
 👋 ยินดีต้องรับ!
 
 สวัสดี ที่นี่คือหน้าหลัก
@@ -22,7 +26,8 @@ If you want to see the codes, you can select them at the top!!
 
 ##
 
-### info
+**info**
+
 - **บอท Camming**
 
   เป็นบอทที่พัฒนาโดยคนไทย🇹🇭 เพียงคนเดียว
