@@ -4,9 +4,8 @@
 
 **shortcut**
 
-- [Camming Bot](https://github.com/Campus2454/Camming/tree/CammingBot)
-- Camming FrontEnd
-- Camming BackEnd
+- [Camming Bot](https://github.com/users/Campus2454/projects/4)
+- [Camming Website](https://github.com/users/Campus2454/projects/5)
 
 ##
 
@@ -16,13 +15,9 @@
 
 สวัสดี ที่นี่คือหน้าหลัก
 
-หากต้องการดูโค้ดต่างๆสามารถเลือกได้ที่ด้านบนเลย!!
-
 👋 Welcome!
 
 Hello, this is the main page.
-
-If you want to see the codes, you can select them at the top!!
 
 ##
 
