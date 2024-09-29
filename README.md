@@ -5,7 +5,7 @@
 **shortcut**
 
 - [Camming Bot](https://github.com/users/Campus2454/projects/4)
-- [Camming Website](https://github.com/users/Campus2454/projects/5)
+- Camming Website
 
 ##
 
